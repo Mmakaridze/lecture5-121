@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Denk One';
+    src: url('../fonts/DenkOne-Regular.eot');
+    src: url('../fonts/DenkOne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DenkOne-Regular.woff2') format('woff2'),
+        url('../fonts/DenkOne-Regular.woff') format('woff'),
+        url('../fonts/DenkOne-Regular.ttf') format('truetype'),
+        url('../fonts/DenkOne-Regular.svg#DenkOne-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
